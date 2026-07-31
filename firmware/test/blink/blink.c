@@ -6,12 +6,12 @@
 #include "pico/stdlib.h"
 #include "hardware/gpio.h"
 
-#define WIDTH 160
-#define HEIGHT 128
+#define WIDTH 160 //240
+#define HEIGHT 128 //320
 
 #define LED_PIN 1
 
-uint8_t framebuffer[WIDTH * HEIGHT];
+uint16_t framebuffer[WIDTH * HEIGHT];
 
 static inline void put_pixel(int x, int y, uint8_t color) {
     framebuffer[y * WIDTH + x] = color;
@@ -75,7 +75,7 @@ int main()
                 //     rand() % HEIGHT,
                 //     255
                 // );
-                put_pixel(i, ie, ((int) (i*ie+1155.0/2265/ie)) % 256);
+                put_pixel(i, ie, ((int) (i*ie+1155.0/2265)) % 65535);
             }
         }
     }
