@@ -10528,7 +10528,7 @@
 	)
 	(text_box "INTERACTION"
 		(exclude_from_sim no)
-		(at 424.18 85.09 0)
+		(at 287.02 83.82 0)
 		(size 118.11 153.67)
 		(stroke
 			(width 0)
@@ -10602,6 +10602,25 @@
 		)
 		(uuid "c9bc1e48-06a6-4c2f-84d5-3dcd636cf367")
 	)
+	(text_box "DISPLAYS"
+		(exclude_from_sim no)
+		(at 288.29 85.09 0)
+		(size 57.15 82.55)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify right bottom)
+		)
+		(uuid "d6ea148a-75ba-4278-b323-1e244d399480")
+	)
 	(text_box "PINS_A"
 		(exclude_from_sim no)
 		(at 287.02 15.24 0)
@@ -10652,7 +10671,7 @@
 	)
 	(text "TODO: ADD AUDIO\nJACK WIRING!!!"
 		(exclude_from_sim no)
-		(at 347.218 183.642 0)
+		(at 345.948 202.184 0)
 		(effects
 			(font
 				(size 3.81 3.81)
@@ -14758,7 +14777,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 386.08 120.65 0)
 			(effects
 				(font
@@ -15366,7 +15385,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 386.08 110.49 0)
 			(effects
 				(font
@@ -17368,7 +17387,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 375.92 105.41 0)
 			(effects
 				(font
@@ -18935,7 +18954,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 375.92 95.25 0)
 			(effects
 				(font
@@ -19654,7 +19673,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 391.16 135.89 0)
 			(effects
 				(font
@@ -19871,7 +19890,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 375.92 115.57 0)
 			(effects
 				(font
@@ -21872,7 +21891,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 386.08 100.33 0)
 			(effects
 				(font
