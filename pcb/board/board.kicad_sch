@@ -8687,6 +8687,16 @@
 	)
 	(wire
 		(pts
+			(xy 363.22 204.47) (xy 364.49 204.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15812205-876b-428c-a535-d0bb0ccc9ece")
+	)
+	(wire
+		(pts
 			(xy 163.83 144.78) (xy 170.18 144.78)
 		)
 		(stroke
@@ -8954,6 +8964,16 @@
 			(type default)
 		)
 		(uuid "24e1dc6f-f65d-4bdb-9a44-408b045ed71e")
+	)
+	(wire
+		(pts
+			(xy 363.22 207.01) (xy 364.49 207.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2562ba50-2bb2-4aba-abdb-2c825ddd7d6a")
 	)
 	(wire
 		(pts
@@ -10387,16 +10407,6 @@
 	)
 	(wire
 		(pts
-			(xy 363.22 207.01) (xy 364.49 207.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "68af3caf-ce17-473b-a834-631f73cf03b2")
-	)
-	(wire
-		(pts
 			(xy 69.85 144.78) (xy 69.85 143.51)
 		)
 		(stroke
@@ -11004,16 +11014,6 @@
 			(type default)
 		)
 		(uuid "7fdd6162-c771-448b-8d0c-22ebddcfbfd7")
-	)
-	(wire
-		(pts
-			(xy 363.22 204.47) (xy 364.49 204.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "80e9805c-c389-4195-bf1f-5c08db9807ac")
 	)
 	(wire
 		(pts
@@ -13917,7 +13917,7 @@
 		)
 		(uuid "155eef84-5924-40cc-803c-b0b037fbc3e1")
 	)
-	(text "0-3: SPI0 MCU\n4-10: Buttons\n11-14: Micro SD Card\n16-17: UART0 MCU (backup)\n18-19: OLED 128x32 Display\n23-25: RGB, Board, Boot LEDS\n21-22, 26-29: Audio"
+	(text "0-3: SPI0 MCU\n4-10: Buttons\n11-14: Micro SD Card\n16-17: UART0 MCU (backup)\n18-19: OLED 128x32 Display\n23-25: RGB, Board, Boot LEDS\n20-22, 26-28: Audio"
 		(exclude_from_sim no)
 		(at 283.972 17.018 0)
 		(effects
@@ -14785,7 +14785,7 @@
 	)
 	(global_label "GPIO21_A"
 		(shape bidirectional)
-		(at 363.22 204.47 180)
+		(at 363.22 207.01 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14795,7 +14795,7 @@
 		)
 		(uuid "2ab30240-7433-4d17-9a0e-d4a514c6cf83")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 350.173 204.47 0)
+			(at 350.173 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15324,6 +15324,28 @@
 		(uuid "4e352711-07a1-4325-9fcc-4da7a428e1a2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 198.1359 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GPIO20_A"
+		(shape bidirectional)
+		(at 363.22 209.55 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "50d58ed4-1819-401c-8cfb-69caf1e90670")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 350.173 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16028,28 +16050,6 @@
 		(uuid "83e7773b-4ae1-4770-a523-2dd3afd5db27")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 290.4225 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "GPIO29_C3_A"
-		(shape bidirectional)
-		(at 363.22 209.55 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "841eb591-891e-4041-8625-11ff2b65b441")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 346.7259 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18085,7 +18085,7 @@
 	)
 	(global_label "GPIO22_A"
 		(shape bidirectional)
-		(at 363.22 207.01 180)
+		(at 363.22 204.47 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -18095,7 +18095,7 @@
 		)
 		(uuid "ebd21710-7440-4e6d-a79e-e1c2c53b221d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 350.173 207.01 0)
+			(at 350.173 204.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
