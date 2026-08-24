@@ -5,7 +5,8 @@
 	(uuid "ad83e94c-cf92-4843-8895-58faef287199")
 	(paper "A3")
 	(title_block
-		(title "River Board")
+		(title "River Board Schematic")
+		(date "2026-08-23")
 		(rev "1.0")
 		(company "HenryLi-0")
 	)
