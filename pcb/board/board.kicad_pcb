@@ -9,7 +9,7 @@
 	(paper "A4")
 	(title_block
 		(title "River Board PCB")
-		(date "2026-08-23")
+		(date "2026-08-26")
 		(rev "1.0")
 	)
 	(layers
