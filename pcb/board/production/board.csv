@@ -35,4 +35,4 @@ Id,Designator,Footprint,Quantity,Comment,Supplier and ref
 34,U8,SOT-23-5,1,TLV70033_SOT23-5,
 35,"C13,C14,C19,C18",C_0603_1608Metric,4,10uF,
 36,"Y2,Y1",Crystal_SMD_3225-4Pin_3.2x2.5mm,2,12MHz,
-37,J14,microSD_HC_Wuerth_693072010801,1,Micro_SD_Card,
+37,J14,microSD_HC_Molex_47219-2001,1,Micro_SD_Card,

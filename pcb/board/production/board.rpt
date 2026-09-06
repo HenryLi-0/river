@@ -1,4 +1,4 @@
-## Footprint report - date 2026-08-26T23:37:41-0400
+## Footprint report - date 2026-09-05T23:44:15-0400
 ## Created by KiCad version 8.0.8
 ## Unit = mm, Angle = deg.
 
@@ -905,7 +905,7 @@ $EndMODULE  C47
 $MODULE C48
 footprint Capacitor_SMD:C_0402_1005Metric
 attribut smd
-position 138.500000 96.500000  orientation 0.00
+position 138.480000 96.750000  orientation 0.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1992,79 +1992,79 @@ $EndPAD
 $EndMODULE  J13
 
 $MODULE J14
-footprint Connector_Card:microSD_HC_Wuerth_693072010801
+footprint Connector_Card:microSD_HC_Molex_47219-2001
 attribut smd
-position 143.750000 105.250000  orientation -90.00
+position 144.250000 105.250000  orientation -90.00
 layer back
 $PAD "1"
 Shape Rect Layer back
-position -3.200000  1.550000  size  0.800000  1.500000  orientation 360.00
+position -3.205000  2.100000  size  0.800000  1.500000  orientation 360.00
 drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
 $PAD "2"
 Shape Rect Layer back
-position -2.100000  1.550000  size  0.800000  1.500000  orientation 360.00
+position -2.105000  2.100000  size  0.800000  1.500000  orientation 360.00
 drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
 $PAD "3"
 Shape Rect Layer back
-position -1.000000  1.550000  size  0.800000  1.500000  orientation 360.00
+position -1.005000  2.100000  size  0.800000  1.500000  orientation 360.00
 drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
 $PAD "4"
 Shape Rect Layer back
-position  0.100000  1.550000  size  0.800000  1.500000  orientation 360.00
+position  0.095000  2.100000  size  0.800000  1.500000  orientation 360.00
 drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
 $PAD "5"
 Shape Rect Layer back
-position  1.200000  1.550000  size  0.800000  1.500000  orientation 360.00
+position  1.195000  2.100000  size  0.800000  1.500000  orientation 360.00
 drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
 $PAD "6"
 Shape Rect Layer back
-position  2.300000  1.550000  size  0.800000  1.500000  orientation 360.00
+position  2.295000  2.100000  size  0.800000  1.500000  orientation 360.00
 drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
 $PAD "7"
 Shape Rect Layer back
-position  3.400000  1.550000  size  0.800000  1.500000  orientation 360.00
+position  3.395000  2.100000  size  0.800000  1.500000  orientation 360.00
 drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
 $PAD "8"
 Shape Rect Layer back
-position  4.500000  1.550000  size  0.800000  1.500000  orientation 360.00
+position  4.495000  2.100000  size  0.800000  1.500000  orientation 360.00
 drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
 $PAD "9"
-Shape Rect Layer back
-position -6.875000 -4.150000  size  1.450000  2.000000  orientation 360.00
+Shape Roundrect Layer back
+position -6.875000 -3.600000  size  1.450000  2.000000  orientation 360.00
 drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
 $PAD "9"
-Shape Rect Layer back
-position -6.875000  4.150000  size  1.450000  2.000000  orientation 360.00
+Shape Roundrect Layer back
+position -6.875000  4.700000  size  1.450000  2.000000  orientation 360.00
 drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
 $PAD "9"
-Shape Rect Layer back
-position  6.875000 -4.150000  size  1.450000  2.000000  orientation 360.00
+Shape Roundrect Layer back
+position  6.875000 -3.600000  size  1.450000  2.000000  orientation 360.00
 drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
 $PAD "9"
-Shape Rect Layer back
-position  6.875000  4.150000  size  1.450000  2.000000  orientation 360.00
+Shape Roundrect Layer back
+position  6.875000  4.700000  size  1.450000  2.000000  orientation 360.00
 drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
