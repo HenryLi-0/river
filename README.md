@@ -1,3 +1,12 @@
+<div align="center">
+    <h2>River</h2>
+    <p>by <a href= "https://github.com/HenryLi-0/river"> @HenryLi-0 </a></p>
+    <img src="banner.png" alt="banner"/>
+</div>
+
+<sub>All designs are open source! Hardware licensed under CERN OHL S v2.<sub>
+
+
 # River
 
 a quick stepping stone
