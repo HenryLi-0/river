@@ -1,0 +1,12 @@
+Ordered,Part,Description,Source,Quantity,Price,Total,Link
+FALSE,Board PCB,PCBA (Check PCBA Parts BOM!),JLCPCB,NA (order),$84.61,$84.61,
+FALSE,,Estimated Shipping (JLCPCB to NYC),JLCPCB,,,$11.05,
+FALSE,Screws,"M2 (16mm, 50pcs)",AliExpress,1,$1.41,$1.41,https://www.aliexpress.us/item/3256804341271555.html
+FALSE,128x32 OLED SSD1306 Display,"Information Display (White, 1pc)",AliExpress,1,$2.44,$2.44,https://www.aliexpress.us/item/3256808453793642.html
+FALSE,128x160 TFT SPI Display,Graphics Display (1.8 inch TFT),AliExpress,1,$4.06,$4.06,https://www.aliexpress.us/item/3256807859088652.html
+FALSE,WS2812B LEDs,LEDs (Board Front),Self,3,$0.00,$0.00,NA
+FALSE,Micro SD Card,Any Micro SD Card,Self,1,$0.00,$0.00,NA
+FALSE,EC11 Rotary Encoder,Rotary Encoder (Top),Self,1,$0.00,$0.00,NA
+FALSE,Cherry MX Switch,Lower 3 Buttons,Self,3,$0.00,$0.00,NA
+FALSE,Buffer,Buffer for Price/Shipping,,,,$5.00,NA
+,TOTAL:,,,,,$108.57,
