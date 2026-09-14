@@ -33,6 +33,8 @@ Huge thanks to [this](https://blueprint.hackclub.com/starter-projects/devboard) 
 
 ![](</frontimages/cad.png>)
 
+![](</frontimages/pcb-kicad.png>)
+
 ---
 
 ## Directory
